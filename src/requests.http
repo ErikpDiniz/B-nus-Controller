@@ -1,0 +1,4 @@
+###Buscar por id
+GET http://localhost:8080/Usuarios/1
+###Buscar por nome
+GET http://localhost:8080/Usuarios/buscar?nome=Erik
